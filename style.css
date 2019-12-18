@@ -1,0 +1,47 @@
+
+.movie {
+    cursor:pointer;
+    color:white;
+    
+}
+
+#current-movie{
+    color:white;
+    color:black;
+    font-family: 'URW Chancery L', cursive;
+    font-size:large;
+    
+}
+
+.movie:hover {
+    color:rgb(233, 179, 1);
+    text-decoration:underline;
+    
+}
+
+.card{
+    text-align: center;
+    border-color: white;
+    background-color:red;
+}
+
+
+body{
+    background-color:red;
+    
+}
+
+h1{
+    text-align:center;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    color:orange;
+}
+
+h4{
+
+    text-align:center;
+    color:white;
+    font-family: 'Comic Sans MS', Comic Sans, cursive;
+    color:orange;
+}
